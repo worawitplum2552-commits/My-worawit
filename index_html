@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <title>ไก่</title>
+  <style>
+    body {
+      background-color: #fffae6; /* พื้นหลังสีเหลืองอ่อน */
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      font-size: 80px;
+      font-family: "Tahoma", sans-serif;
+      color: #e67e22; /* สีส้ม */
+    }
+  </style>
+</head>
+<body>
+  🐔 ไก่ 🐔
+</body>
+</html>
